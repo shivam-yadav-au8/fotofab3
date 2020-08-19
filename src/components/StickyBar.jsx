@@ -74,8 +74,12 @@ class StickyBar extends Component {
           </li>
           <li>
             {" "}
+            <a
+              href="https://www.linkedin.com/company/foto-fab"
+              style={{ textDecoration: "none", color: "white" }}
+            >
             <img width="32" height="32" title="" alt="li" src={li} />
-            <p>Linkedin</p>
+            <p>Linkedin</p></a>
           </li>
         </ul>
       </div>
